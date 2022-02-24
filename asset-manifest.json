@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/4th/static/css/main.f912514f.css",
+    "main.js": "/4th/static/js/main.b2a87fcd.js",
+    "static/media/marketing.jpg": "/4th/static/media/marketing.f629aa392c4ff105f747.jpg",
+    "static/media/app.jpeg": "/4th/static/media/app.8714f36598ad2ce812b5.jpeg",
+    "static/media/android.jpeg": "/4th/static/media/android.ee1d95083516dda0d669.jpeg",
+    "static/media/software.jpeg": "/4th/static/media/software.1cb4dc77f9fd741d63f4.jpeg",
+    "static/media/digital.jpeg": "/4th/static/media/digital.dad8270c838055c62dd3.jpeg",
+    "static/media/s1.jpg": "/4th/static/media/s1.8e51e67dff71d6464727.jpg",
+    "static/media/hero-img.png": "/4th/static/media/hero-img.53f1b5467e5095dc4126.png",
+    "static/media/img2.svg": "/4th/static/media/img2.d12e2a271e618bd9bc130b61d3930482.svg",
+    "index.html": "/4th/index.html",
+    "main.f912514f.css.map": "/4th/static/css/main.f912514f.css.map",
+    "main.b2a87fcd.js.map": "/4th/static/js/main.b2a87fcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f912514f.css",
+    "static/js/main.b2a87fcd.js"
+  ]
+}
